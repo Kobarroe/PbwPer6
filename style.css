@@ -1,0 +1,8 @@
+body { font-family: 'Poppins', sans-serif; color: #2b2f3a; scroll-behavior: smooth; }
+.navbar-brand { font-weight: 700; }
+.section-title { font-weight: 700; margin-bottom: 2rem; }
+.card { border: 0; border-radius: 1rem; box-shadow: 0 6px 20px rgba(20, 33, 61, .08); }
+.icon-box { font-size: 2rem; color: #274690; }
+.btn-primary { background: #274690; border-color: #274690; }
+.btn-primary:hover { background: #14213d; border-color: #14213d; }
+.navbar-brand, .navbar .nav-link { color: #274690 !important; }
